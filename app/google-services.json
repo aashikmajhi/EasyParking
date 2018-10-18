@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "751461689657",
+    "firebase_url": "https://easypark-fddcc.firebaseio.com",
+    "project_id": "easypark-fddcc",
+    "storage_bucket": "easypark-fddcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751461689657:android:b8d0ab32f8d08ad0",
+        "android_client_info": {
+          "package_name": "com.example.android.easypark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751461689657-ukc6m7r65mtb5qmpgrr2qa8obu76vr0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzop4uljNzmRCvfz8zhP_ZRqUB_zYcSos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

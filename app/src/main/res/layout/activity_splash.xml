@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/easypark"
+        android:background="#ededed"
+        android:layout_marginTop="128dp"
+        android:layout_marginStart="64dp"/>
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginStart="116dp"
+        android:fontFamily="cursive"
+        android:text="Easy Park"
+        android:textSize="58sp" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="160dp"
+        android:fontFamily="casual"
+        android:text="Parking made easy..."
+        android:textSize="22sp" />
+
+</LinearLayout>
+
+

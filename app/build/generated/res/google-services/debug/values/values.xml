@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">751461689657-ukc6m7r65mtb5qmpgrr2qa8obu76vr0t.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://easypark-fddcc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">751461689657</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzop4uljNzmRCvfz8zhP_ZRqUB_zYcSos</string>
+    <string name="google_app_id" translatable="false">1:751461689657:android:b8d0ab32f8d08ad0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzop4uljNzmRCvfz8zhP_ZRqUB_zYcSos</string>
+    <string name="google_storage_bucket" translatable="false">easypark-fddcc.appspot.com</string>
+    <string name="project_id" translatable="false">easypark-fddcc</string>
+</resources>

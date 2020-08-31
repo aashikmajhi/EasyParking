@@ -6,4 +6,4 @@ It is implemented using the ESP8266(NODE-MCU) module and Android application.
 
 Clone the master branch of this repository for the android applicaion.
 
-# Check Presentation for demo and basic working flow.
+# Check Presentation Folder for demo and basic working flow.
